@@ -1,0 +1,2 @@
+# NUCLEO-F401RE_UART
+use uart on NUCLEO-F401RE
